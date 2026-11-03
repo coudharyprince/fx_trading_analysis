@@ -304,12 +304,16 @@ This project uses **financial trading data** containing instrument names, profit
 
 ---
 
-## Author
+## Project Attribution
 
-**Sarvesh Kumar Sharma**
+**Recreated/adapted by:** Prince Kumar  
+[GitHub profile](https://github.com/coudharyprince)
 
+**Reference project attribution:** Sarvesh Kumar Sharma  
 - GitHub: [@shsarv](https://github.com/shsarv)
 - LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+
+This repository is a learning-focused recreation/adaptation of an unpublished reference project. The attribution above preserves the author information provided in the reference README.
 
 ---
 
