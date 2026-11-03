@@ -43,6 +43,16 @@ The project demonstrates:
 - **Monte Carlo simulation** to estimate forward performance under realistic assumptions
 - **Risk metrics** including drawdown analysis and consecutive-loss probability
 
+
+## Acknowledgement
+
+This repository is a recreation/adaptation of an unpublished reference project.
+It was recreated for learning and educational purposes. The original source
+project is not publicly available.
+
+This README documents the project as an adaptation and does not claim the
+original work as independently developed.
+
 ---
 
 ## Problem Statement
